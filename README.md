@@ -17,7 +17,24 @@ Specker Smash é um aplicativo de edição de imagem que permite aos usuários r
 ## Tecnologias Usadas
 
 - **React Native**: Para desenvolvimento de aplicativos móveis.
-- **[Outras bibliotecas ou tecnologias que você está usando]**.
+- **Expo**: Para funcionalidades como seleção de imagens e acesso à biblioteca de mídia.
+- **Bibliotecas Utilizadas**:
+  - `react-native`: Componentes básicos para o aplicativo.
+  - `expo-image-picker`: Para selecionar imagens da galeria.
+  - `react-native-gesture-handler`: Para manipulação de gestos.
+  - `expo-media-library`: Para gerenciar a biblioteca de mídia.
+  - `react-native-view-shot`: Para capturar imagens da tela.
+  - `expo-image`: Para manipulação de imagens.
+  - `dom-to-image`: Para converter elementos DOM em imagens.
+  
+- **Componentes Personalizados**:
+  - `Button`: Componente de botão reutilizável.
+  - `ImageViewer`: Componente para visualizar imagens.
+  - `IconButton`: Botão com ícone.
+  - `CircleButton`: Botão circular.
+  - `EmojiList`: Lista de emojis disponíveis.
+  - `EmojiPicker`: Componente para selecionar emojis.
+  - `EmojiSticker`: Componente para adicionar emojis como adesivos.
 
 ## Instalação
 
